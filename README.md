@@ -81,6 +81,8 @@ Recall : Number of items correctly identified as positive out of total true pos
 From the confusion matrix, we were also able to show that the model identifies 13 % of false positive i.e the customer did not accept the offer but was predicted as success and 5% of false negatives i.e customer accepted the offer but was predicted as fail.
 Since, false negative is less than false positive, our model is classifying accurately as it has low chances of missing an individual who would respond.
 
+The details of the analysis can be found on medium : <a href> https://medium.com/@divyabudale/starbucks-capstone-challenge-6c4438c5a03d </a>
+
 # Acknowledgements <a name='Acknowledgements'></a>
 
 1. Udacity for providing such a complete Data Science Nanodegree Program
